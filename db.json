@@ -27,10 +27,18 @@
     {
       "id": 4,
       "name": "Ajay Bhat",
-      "age": 23,
+      "age": 25,
       "place": "Uttarakhand",
       "batch_name": "WEB-19",
       "profession": "Backend"
+    },
+    {
+      "id": 5,
+      "name": "Radhe",
+      "age": 23,
+      "place": "Uttarakhand",
+      "batch_name": "WEB-19",
+      "profession": "Student"
     }
   ]
 }
