@@ -1,44 +1,124 @@
 {
-  "users": [
+  "userdata": [
     {
-      "id": 1,
-      "name": "Chandra",
-      "age": 25,
-      "place": "Visakhapatnam",
-      "batch_name": "WEB-21",
-      "profession": "FSD"
+      "name": "Batman",
+      "category": "Sports",
+      "difficulty": "Easy",
+      "questions": 5,
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Nrupul",
-      "age": 37,
-      "place": "Vijayawada",
-      "batch_name": "WEB-18",
-      "profession": "FSD"
+      "name": "bipin singh bhat",
+      "category": "Sports",
+      "difficulty": "Easy",
+      "questions": 23,
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "Bipin Singh Bhat",
-      "age": 23,
-      "place": "Vijayawada",
-      "batch_name": "WEB-18",
-      "profession": " Frontend"
+      "name": "Flash",
+      "category": "General Knowledge",
+      "difficulty": "Easy",
+      "questions": 3,
+      "id": 3
     },
     {
-      "id": 4,
-      "name": "Ajay Bhat",
-      "age": 25,
-      "place": "Uttarakhand",
-      "batch_name": "WEB-19",
-      "profession": "Backend"
+      "name": "Ironman",
+      "category": "General Knowledge",
+      "difficulty": "Hard",
+      "questions": 4,
+      "id": 4
     },
     {
-      "id": 5,
-      "name": "Radhe",
-      "age": 23,
-      "place": "Uttarakhand",
-      "batch_name": "WEB-19",
-      "profession": "Student"
+      "name": "Natasha",
+      "category": "Sports",
+      "difficulty": "Medium",
+      "questions": 2,
+      "id": 5
+    },
+    {
+      "name": "",
+      "category": "",
+      "difficulty": "",
+      "questions": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "category": "",
+      "difficulty": "",
+      "questions": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "category": "",
+      "difficulty": "",
+      "questions": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "category": "",
+      "difficulty": "",
+      "questions": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "category": "",
+      "difficulty": "",
+      "questions": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "category": "",
+      "difficulty": "",
+      "questions": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "category": "",
+      "difficulty": "",
+      "questions": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "category": "",
+      "difficulty": "",
+      "questions": "",
+      "id": 13
+    },
+    {
+      "name": "bipin singh bhat",
+      "category": "Sports",
+      "difficulty": "Easy",
+      "questions": 2,
+      "id": 14
+    }
+  ],
+  "questiondata": [
+    {
+      "question": "why we read book",
+      "option1": "no",
+      "option2": "learn",
+      "option3": "write",
+      "option4": "fly",
+      "ans": "learn",
+      "difficulty": "easy",
+      "category": "General Knowledge"
+    },
+    {
+      "question": "why we run ",
+      "option1": "fit",
+      "option2": "handwriting improve",
+      "option3": "write",
+      "option4": "fly",
+      "ans": "fit",
+      "difficulty": "easy",
+      "category": "Sports"
     }
   ]
 }
