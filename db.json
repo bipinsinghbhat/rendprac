@@ -1,124 +1,27 @@
 {
-  "userdata": [
+  "users": [
     {
-      "name": "Batman",
-      "category": "Sports",
-      "difficulty": "Easy",
-      "questions": 5,
-      "id": 1
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password",
+      "profession": "Web Developer",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "hourly_rate": 25,
+      "profile_picture": "profile1.jpg",
+            "isBooked" : false
     },
     {
-      "name": "bipin singh bhat",
-      "category": "Sports",
-      "difficulty": "Easy",
-      "questions": 23,
-      "id": 2
-    },
-    {
-      "name": "Flash",
-      "category": "General Knowledge",
-      "difficulty": "Easy",
-      "questions": 3,
-      "id": 3
-    },
-    {
-      "name": "Ironman",
-      "category": "General Knowledge",
-      "difficulty": "Hard",
-      "questions": 4,
-      "id": 4
-    },
-    {
-      "name": "Natasha",
-      "category": "Sports",
-      "difficulty": "Medium",
-      "questions": 2,
-      "id": 5
-    },
-    {
-      "name": "",
-      "category": "",
-      "difficulty": "",
-      "questions": "",
-      "id": 6
-    },
-    {
-      "name": "",
-      "category": "",
-      "difficulty": "",
-      "questions": "",
-      "id": 7
-    },
-    {
-      "name": "",
-      "category": "",
-      "difficulty": "",
-      "questions": "",
-      "id": 8
-    },
-    {
-      "name": "",
-      "category": "",
-      "difficulty": "",
-      "questions": "",
-      "id": 9
-    },
-    {
-      "name": "",
-      "category": "",
-      "difficulty": "",
-      "questions": "",
-      "id": 10
-    },
-    {
-      "name": "",
-      "category": "",
-      "difficulty": "",
-      "questions": "",
-      "id": 11
-    },
-    {
-      "name": "",
-      "category": "",
-      "difficulty": "",
-      "questions": "",
-      "id": 12
-    },
-    {
-      "name": "",
-      "category": "",
-      "difficulty": "",
-      "questions": "",
-      "id": 13
-    },
-    {
-      "name": "bipin singh bhat",
-      "category": "Sports",
-      "difficulty": "Easy",
-      "questions": 2,
-      "id": 14
-    }
-  ],
-  "questiondata": [
-    {
-      "question": "why we read book",
-      "option1": "no",
-      "option2": "learn",
-      "option3": "write",
-      "option4": "fly",
-      "ans": "learn",
-      "difficulty": "easy",
-      "category": "General Knowledge"
-    },
-    {
-      "question": "why we run ",
-      "option1": "fit",
-      "option2": "handwriting improve",
-      "option3": "write",
-      "option4": "fly",
-      "ans": "fit",
-      "difficulty": "easy",
-      "category": "Sports"
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password",
+      "profession": "Graphic Designer",
+      "skills": ["Photoshop", "Illustrator"],
+      "hourly_rate": 30,
+      "profile_picture": "profile2.jpg",
+            "isBooked" : true
     }
   ]
+  
 }
