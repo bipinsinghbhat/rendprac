@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "John Doe",
+      "age":25,
       "email": "john@example.com",
       "password": "password",
       "profession": "Web Developer",
@@ -14,6 +15,7 @@
     {
       "id": 2,
       "name": "Jane Smith",
+      "age":31,
       "email": "jane@example.com",
       "password": "password",
       "profession": "Graphic Designer",
